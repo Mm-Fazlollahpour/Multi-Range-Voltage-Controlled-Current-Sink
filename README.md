@@ -1,8 +1,8 @@
 # Multi-Range Voltage-Controlled Current Sink (VCCS)
 
 <p align="center">
-  <img src="Images/Front-PCB.jpg" alt="VCCS PCB - Front View" width="48%">
-  <img src="Images/Rear-PCB.jpg" alt="VCCS PCB - Rear View" width="48%">
+  <img src="Images/Front-PCB.png" alt="VCCS PCB - Front View" width="48%">
+  <img src="Images/Rear-PCB.png" alt="VCCS PCB - Rear View" width="48%">
 </p>
 
 <p align="center">
